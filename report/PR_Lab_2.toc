@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}Topic}{3}
+\contentsline {section}{\numberline {2}Tasks}{3}
+\contentsline {section}{\numberline {3}Task Implementation}{4}
+\contentsline {subsection}{\numberline {3.1}Request your secret key}{4}
+\contentsline {subsection}{\numberline {3.2}Using your secret key, request data from all devices concurrently}{4}
+\contentsline {subsection}{\numberline {3.3}Parse data from all devices}{4}
+\contentsline {subsection}{\numberline {3.4}Aggregate all responses ordering by sensor type.}{4}
